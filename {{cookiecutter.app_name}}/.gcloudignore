@@ -1,0 +1,8 @@
+.idea
+bin/
+.DS_Store
+.git
+.gitignore
+*.json
+*_test.go
+*.sh
